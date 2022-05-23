@@ -22,6 +22,8 @@ setup(
         'pystan==2.19.1.1',
         'prophet',
         'tensorflow',
+        'flaml',
+        'cloudpickle',
         'pyarrow'
     ]
 )
