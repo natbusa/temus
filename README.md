@@ -24,7 +24,12 @@ https://www.kaggle.com/competitions/ams-2014-solar-energy-prediction-contest
 
 - World Sustainability Dataset  
 https://www.kaggle.com/datasets/truecue/worldsustainabilitydataset
-  
+
+## Deliverables
+ 
+ - presentation: https://github.com/natbusa/temus/blob/main/reports/Temus%20case%20study.pdf
+ - notebook: https://github.com/natbusa/temus/blob/main/notebooks/temus.ipynb
+ 
 
 Project Organization
 ------------
