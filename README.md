@@ -106,12 +106,10 @@ Install procedure and requirements:
 --------
 Data:
 
-either manual download from:  
-https://www.kaggle.com/c/santander-customer-transaction-prediction/data
-
-or using the kaggle API:   
-`cd data/raw && kaggle competitions download -c santander-customer-transaction-prediction`
-
+Use the kaggle API:   
+`cd data/raw && kaggle competitions download -c GEF2012-wind-forecasting`
+`cd data/raw && kaggle competitions download -c global-energy-forecasting-competition-2012-load-forecasting`
+ 
 --------
 Quick start for inspect/work on notebooks:
 ```
