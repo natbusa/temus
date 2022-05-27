@@ -27,7 +27,8 @@ requirements: test_environment
 
 ## Make Dataset
 data: requirements
-	(cd data/raw; unzip -o *.zip)
+	(cd data/raw/gef2012-load; unzip -o *.zip)
+	(cd data/raw/gef2012-wind; unzip -o *.zip)
 	$(PYTHON_INTERPRETER) src/data/make_dataset.py data/raw data/processed
 
 ## Delete all compiled Python files
